@@ -1,3 +1,5 @@
+# modules
+
 import my_module
 
 result = my_module.square(45)
